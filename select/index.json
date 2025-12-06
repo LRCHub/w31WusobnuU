@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "やさしくしないで",
+  "base_artist": "理芽",
+  "createdAt": "2025-12-06T03:43:48.963993Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "やさしくしないで",
+      "artist": "Tomoko Aran",
+      "has_synced": false,
+      "path": "select/01_やさしくしないで_Tomoko_Aran.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "やさしくしないで",
+      "artist": "Tomoko Aran(亜蘭知子)",
+      "has_synced": false,
+      "path": "select/02_やさしくしないで_Tomoko_Aran(亜蘭知子).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "やさしくしないで",
+      "artist": "理芽",
+      "has_synced": true,
+      "path": "select/03_やさしくしないで_理芽.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "やさしくしないで",
+      "artist": "理芽",
+      "has_synced": false,
+      "path": "select/pl_01_やさしくしないで_理芽.txt"
+    }
+  ]
+}
